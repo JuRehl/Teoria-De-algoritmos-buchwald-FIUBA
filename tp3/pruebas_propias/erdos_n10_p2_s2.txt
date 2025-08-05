@@ -1,0 +1,9 @@
+# grafo generado automáticamente para TP3
+0,3
+0,4
+1,4
+2,6
+2,7
+3,9
+4,6
+5,6

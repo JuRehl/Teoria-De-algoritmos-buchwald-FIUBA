@@ -1,0 +1,14 @@
+{
+    "estrella": 2,
+    "ciclo": 2,
+    "clique": 1,
+    "erdos_n10_p2_s1": 3,
+    "erdos_n10_p2_s2": 3,
+    "erdos_n10_p5_s1": 2,
+    "erdos_n10_p5_s2": 2,
+    "erdos_n15_p2_s1": 5,
+    "erdos_n15_p2_s2": 5,
+    "erdos_n15_p5_s1": 3,
+    "erdos_n15_p5_s2": 3,
+    "comunidades_3x5_inter2": 3
+}
