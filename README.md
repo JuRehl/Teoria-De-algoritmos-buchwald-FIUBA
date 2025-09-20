@@ -1,5 +1,5 @@
 # Teoria-De-algoritmos-buchwald-FIUBA
-Toda la práctica realizada en la materia teoria de algoritmos
+Toda la práctica realizada en la materia teoria de algoritmos 22025 1C
 
 ### Aclaración
 Los ejercicios pueden estar mal hechos o resueltos muy rebuscados, cualquier cosa manda un issue o PR :)
